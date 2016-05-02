@@ -1,0 +1,14 @@
+layout_spectrum: 0.06445348
+typography_spectrum: 0.4200572
+color:
+  saturation: 0.3392782
+  lightness: 0.7175524
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#803F8F'
+    - '#CFC740'
+    - '#2F2A29'
+    - '#A59F92'
+  rhythmicContrast: 0.4395488
+name: SigEpUtahBetaAlumni
